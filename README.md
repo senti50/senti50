@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Whatever I do, I do with perfection, Takes work ethics very seriously, Likes helps pepole to achieve their goals and consistently looking for innovating something for improving lives of people.
+Whatever I do, I do with perfection. I take work ethics very seriously. I like helps pepole to achieve their goals and consistently looking for innovating something for improving my life.
 <br><br>
   
 ## About Me 😄&nbsp;
