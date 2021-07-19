@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Whatever I do, I do with perfection. I take work ethics very seriously. I like helps pepole to achieve their goals and consistently looking for innovating something for improving my life.
+Whatever I do, I do with perfection. I take work ethics very seriously. I like help people. I like to set ambitious challenges and I am very determined to achieve them. I constantly looking for innovating something for improving my life.
 <br><br>
   
 ## About Me 😄&nbsp;
@@ -21,9 +21,8 @@ Whatever I do, I do with perfection. I take work ethics very seriously. I like h
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot&color=E0EBED)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql&color=E0EBED)&nbsp;
     <br>
-  
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&color=E0EBED)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=E0EBED)&nbsp;
+  <!--![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=E0EBED)&nbsp; --->
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&color=E0EBED)&nbsp; 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=E0EBED)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=E0EBED)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=E0EBED)&nbsp;
