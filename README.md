@@ -35,13 +35,9 @@ Whatever I do, I do with perfection. I take work ethics very seriously. I like h
 <a href="https://github.com/appleboy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senti50&show_icons=true&theme=merko&count_private=true" alt="github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senti50&theme=merko&layout=compact" alt="github top languages" />
- 
 </a>
    </div>
 <br/>
-<div align="center">
-<img src="https://www.pngkey.com/png/detail/352-3520808_eat-sleep-code-repeat-dg0024srcs-eat-sleep-sail.png" alt="Eat Sleep Code Repeat Dg0024srcs - Eat Sleep Sail Repeat@pngkey.com">
- </div>
  <hr>
  <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -52,6 +48,10 @@ Whatever I do, I do with perfection. I take work ethics very seriously. I like h
 <!---
 **senti50/senti50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align="center">
+<img src="https://www.pngkey.com/png/detail/352-3520808_eat-sleep-code-repeat-dg0024srcs-eat-sleep-sail.png" alt="Eat Sleep Code Repeat Dg0024srcs - Eat Sleep Sail Repeat@pngkey.com">
+ </div>
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
